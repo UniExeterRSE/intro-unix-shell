@@ -2,7 +2,8 @@
 
 # Intro to unix shell
 
-Please find the deployed site [here](https://uniexeterrse.github.io/intro-unix-shell/).
+This course is now hosted by [Coding For Reproducible Research (CfRR)](https://coding-for-reproducible-research.github.io/).
+This material is still visible at [the deployed site](https://uniexeterrse.github.io/intro-unix-shell/), but any updates and new course dates will be found at [CfRR: Intro to Unix](https://coding-for-reproducible-research.github.io/CfRR_Courses/course_homepages/unix.html).
 These notes accompany in-person and online teaching during the two sessions of the Intro to Unix Shell course.
 
 ## Source details

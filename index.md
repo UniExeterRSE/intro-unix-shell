@@ -3,6 +3,10 @@ layout: home
 title: Course Information
 ---
 
+## Notice
+
+This course is now hosted by [Coding For Reproducible Research](https://coding-for-reproducible-research.github.io/).
+
 ## Overview
 
 The Unix system and the shell predate most computational interfaces (e.g. the graphical user interface). Although very old, Unix based systems and the shell are one of the most powerful ways to use computers whether it is your laptop or a supercomputer. This course is an introduction to navigating your way around the shell and demonstrating how it can improve your workflow. This can be in the form of data processing, executing code, using a huge range of built-in tools, and creating pipelines.
@@ -56,6 +60,8 @@ If you are interested in becoming part of our community of workshop helpers, lea
 
 ## Acknowledgements
 
-This course was adapted from Software Carpentries Intro to Unix Shell and has been developed by the University of Exeter Research Software Engineering Group who are enthusiastic about sharing their skills with the wider research community. Its provision is dependent on the time of these volunteers. If you have benefited in any way from this course and want to support its long term sustainability then please take the time to complete our feedback survey, recommend it to your colleagues, and enthuse about it to your senior leadership team.
+This course was adapted from [Software Carpentries](https://software-carpentry.org/) Intro to Unix Shell (now [Shell Novice](https://swcarpentry.github.io/shell-novice/)) and has been developed by the University of Exeter Research Software Engineering Group who are enthusiastic about sharing their skills with the wider research community.
+Its provision is dependent on the time of these volunteers.
+If you have benefited in any way from this course and want to support its long term sustainability then please take the time to complete our feedback survey, recommend it to your colleagues, and enthuse about it to your senior leadership team.
 
 This workshop is brought to you by the University of Exeter [Research Software Engineering Group](https://www.exeter.ac.uk/research/software-engineering/), University of Exeter [Institute of Data Science and Artificial Intelligence](https://www.exeter.ac.uk/research/idsai/), University of Exeter [Researcher Development](https://www.exeter.ac.uk/research/doctoralcollege/early-career-researchers/traininganddevelopment/rdprogramme/) and the University of Exeter [Doctoral College](https://www.exeter.ac.uk/research/doctoralcollege/).
